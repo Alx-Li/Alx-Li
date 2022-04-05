@@ -13,6 +13,7 @@ I am learning Node.js to implement a MERN stack for my personal portfolio. Follo
 - Desktop app with Electron
 - Mobile app with a JS framework (React Native, Flutter, Ionic :thinking:)
 - A game? 
+- Cyberdeck
 - [A blog on github pages](https://alx-li.github.io/)
 ### :memo: Areas of Interest:
 - Theoretical Computing Science
