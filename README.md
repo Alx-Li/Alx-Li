@@ -18,6 +18,7 @@ I am learning Node.js to implement a MERN stack for my personal portfolio. Follo
 ### :memo: Areas of Interest:
 - Theoretical Computing Science
 - Artificial Intelligence and Machine Learning
+  - Open AI is kinda scary...
 ---
 **Connect with me:**
 
