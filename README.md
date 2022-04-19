@@ -1,4 +1,4 @@
-# <p align="center"> <img src="Asset_animated.svg" width="15%" align="center"> <br/> Hi, im Alex! :wave:</p> 
+# <p align="center"> <img src="/assets/Asset_animated.svg" width="15%" align="center"> <br/> Hi, im Alex! :wave:</p> 
 
 :student: I am currently a student studying computer science. Follow me along my self-learning journey on Github as I experiment with different frameworks and build things that I find cool.
 
