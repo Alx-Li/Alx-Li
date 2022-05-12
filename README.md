@@ -23,6 +23,7 @@ I am learning Node.js to implement a MERN stack for my personal portfolio. Follo
 **Connect with me:**
 
 ~~social media is cringe~~ Please be patient while I set up my accounts.
+[LinkedIn](https://www.linkedin.com/in/alx-li/)
 
 
 <!--
