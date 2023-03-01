@@ -3,7 +3,10 @@
 :student: I am currently a student studying computer science. Follow me along my self-learning journey on Github as I experiment with different frameworks and build things that I find cool.
 
 ### :hammer_and_pick: Current Project:
-I am learning Node.js to implement a MERN stack for my personal portfolio. Follow my [repository](https://github.com/Alx-Li/MERN-Portfolio-Dev) to see updates and notes during my development.
+~~I am learning Node.js to implement a MERN stack for my personal portfolio. Follow my [repository](https://github.com/Alx-Li/MERN-Portfolio-Dev) to see updates and notes during my development.~~
+
+Ever since my internship doing (essentially full-stack) web dev, I really want to redo my entire site. Seeing the innovation in webdesign and graphic arts on social media platforms and awwwards has inspired me to challenge myself to create something unique.
+
 ### :writing_hand: Currently Learning:
 - Algorithms and data structures
 - Javascript frameworks and libraries
